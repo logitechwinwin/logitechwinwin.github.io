@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.voice.hello",
+      "sha256_cert_fingerprints": [
+        "22:69:2F:D1:FE:3F:59:7F:61:A0:45:2C:F5:3E:2D:54:5A:A1:06:B2:D6:0B:90:F0:57:58:5C:70:9C:A2:D7:4A"
+      ]
+    }
+  }
+]
